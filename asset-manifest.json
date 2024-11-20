@@ -1,18 +1,25 @@
 {
-  "main.css": "/static/css/main.24cafb1c.chunk.css",
-  "main.js": "/static/js/main.c84ca004.chunk.js",
-  "main.js.map": "/static/js/main.c84ca004.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/css/2.8e1229c8.chunk.css": "/static/css/2.8e1229c8.chunk.css",
-  "static/js/2.56a76797.chunk.js": "/static/js/2.56a76797.chunk.js",
-  "static/js/2.56a76797.chunk.js.map": "/static/js/2.56a76797.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.653ae06ce8d1da30d6f7aae3f2100d89.js": "/precache-manifest.653ae06ce8d1da30d6f7aae3f2100d89.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.8e1229c8.chunk.css.map": "/static/css/2.8e1229c8.chunk.css.map",
-  "static/css/main.24cafb1c.chunk.css.map": "/static/css/main.24cafb1c.chunk.css.map",
-  "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
-  "static/media/me.jpg": "/static/media/me.5e22511b.jpg",
-  "static/media/stylesheet.css": "/static/media/raleway-semibold-webfont.34173a45.woff"
+  "files": {
+    "main.css": "/static/css/main.424bea92.css",
+    "main.js": "/static/js/main.4dc42e7c.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/me.jpg": "/static/media/me.c607283bf91957021fb6.jpg",
+    "static/media/raleway-semibold-webfont.woff": "/static/media/raleway-semibold-webfont.0640acfd92fd039d8f56.woff",
+    "static/media/raleway-bold-webfont.woff": "/static/media/raleway-bold-webfont.5fe9aa32301c992bc8d6.woff",
+    "static/media/raleway-regular-webfont.woff": "/static/media/raleway-regular-webfont.dae75cda0dd5078b9f3c.woff",
+    "static/media/raleway-semibold-webfont.woff2": "/static/media/raleway-semibold-webfont.7ab23c01aa6029cccbc1.woff2",
+    "static/media/raleway-bold-webfont.woff2": "/static/media/raleway-bold-webfont.51f3717c51aff21ae288.woff2",
+    "static/media/raleway-regular-webfont.woff2": "/static/media/raleway-regular-webfont.ce1d9c23adec7a5415f8.woff2",
+    "index.html": "/index.html",
+    "main.424bea92.css.map": "/static/css/main.424bea92.css.map",
+    "main.4dc42e7c.js.map": "/static/js/main.4dc42e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.424bea92.css",
+    "static/js/main.4dc42e7c.js"
+  ]
 }
