@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.424bea92.css",
-    "main.js": "/static/js/main.f752cbd4.js",
+    "main.js": "/static/js/main.e7a345ff.js",
+    "static/media/resume.pdf": "/static/media/resume.168b93327217f1cd4b69.pdf",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -16,10 +17,10 @@
     "static/media/raleway-regular-webfont.woff2": "/static/media/raleway-regular-webfont.ce1d9c23adec7a5415f8.woff2",
     "index.html": "/index.html",
     "main.424bea92.css.map": "/static/css/main.424bea92.css.map",
-    "main.f752cbd4.js.map": "/static/js/main.f752cbd4.js.map"
+    "main.e7a345ff.js.map": "/static/js/main.e7a345ff.js.map"
   },
   "entrypoints": [
     "static/css/main.424bea92.css",
-    "static/js/main.f752cbd4.js"
+    "static/js/main.e7a345ff.js"
   ]
 }
